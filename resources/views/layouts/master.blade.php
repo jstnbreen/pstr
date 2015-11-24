@@ -34,6 +34,7 @@ $thisPage = "test";
 	<div id="wrapper">
 		<header id="header">
 			<a href="http://www.pstr.club">
+				<img class='pagebanner' src='../../assets/img/banner_pstr-jayden.jpg'>
 				<?php
 					if ($thisPage == "Home") {
 						echo "<img class='pagebanner' src='img/banner_pstr-jayden.jpg'>";
