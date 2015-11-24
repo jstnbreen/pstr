@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="{{URL::asset('css/style.css')}}">
+<link rel="stylesheet" href="{{URL::asset('assets/css/style.css')}}">
 <?php
 $thisPage = "testing";
 
@@ -21,7 +21,7 @@ else {echo "<link rel='stylesheet' href='../css/style.css' type='text/css'/>";}
 <script src="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.33/jquery.colorbox-min.js"></script>
 
-<script type="text/javascript" src="{{URL::asset('js/jquery.main.js')}}"></script>
+<script type="text/javascript" src="{{URL::asset('assets/js/jquery.main.js')}}"></script>
 
 <?php
 // if ($thisPage == "Home") {echo "<script src='js/jquery.main.js'></script>";}
