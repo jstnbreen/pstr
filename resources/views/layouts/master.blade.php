@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,700italic,400,400italic|Roboto+Condensed:400,300,700" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/imgareaselect/0.9.10/css/imgareaselect-default.css" />
 <?php
-$thisPage = "test";
+$thisPage = "testing";
 
 if ($thisPage == "Home") {echo "<link rel='stylesheet' href='css/style.css' type='text/css'/>";}
 else {echo "<link rel='stylesheet' href='../css/style.css' type='text/css'/>";}
