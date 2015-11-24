@@ -69,7 +69,7 @@ else {echo "<link rel='stylesheet' href='../css/style.css' type='text/css'/>";}
 			<div class="quicklinks">
 				<ul>
 					<li>
-						<li><a href="http://www.pstr.club">Home</a></li>
+						<li><a href="http://www.pstr.club">Home link</a></li>
 						<?php
 						if ($thisPage == "Home") {
 							echo "<a href='page/club-info.php'>Club Info</a>";
