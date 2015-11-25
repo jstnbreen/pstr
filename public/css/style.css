@@ -274,6 +274,12 @@ th {
 	}
 }
 
+@media only screen and (max-width: 767px) {
+	#main {
+		padding: 10px 5px !important;
+	}
+}
+
 /*** GLOBAL CLASSES ***/
 .m0{margin:0;}.m1{margin:1em;}
 .m1-x{margin:0 1em;}.m1-y{margin:1em 0;}
