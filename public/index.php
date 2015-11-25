@@ -38,20 +38,15 @@ $('.slider').slick({
 });
 </script>
 
-<div class="row">
+<!-- <div class="row">
 	<div class="col-sm-12">
 		<h1>Latest News</h1>
 
 		<img class="m-auto block" src="img/flyer_3-29-15.jpg">
 		<img class="m1-auto block" src="img/flyer_clarkies.jpg">
 		<img class="m1-auto block" src="img/flyer_CabinFeverTurkeyRun.jpg">
-		<hr>
-
-		<p>
-			The Leonard’s Loop Hare Scramble has been postponed due this record breaking winter. Consequently, there have been some changes to the Short Course schedule. Please see the updated schedule down below.
-		</p>
 	</div>
-</div>
+</div> -->
 
 <!--<div class="row">
 	<div class="col-sm-12">

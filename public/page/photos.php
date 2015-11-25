@@ -16,10 +16,11 @@ include ("../include/header.php");
 		</p>
 		<img class="m1-auto block" src="../img/logo_motophoto.jpg">
 
-		<ul class="list-disc" style="font-weight:bold;">
-			<li><a href="photos_member-photos.php" style="font-size:26px;">Member Photos</a></li>
-			<li><a href="photos_2015-awards-banquet.php" style="font-size:26px;">2014 Year End Awards Banquet</a></li>
-			<li><a href="photos_2015-record-winter-cleanup.php" style="font-size:26px;">2015 Record Winter Cleanup</a></li>
+		<ul class="list-disc" style="font-size:26px;font-weight:bold;">
+			<li><a href="photos_member-photos.php">Member Photos</a></li>
+			<li><a href="photos_2015-toysfortots-charity-ride.php">2015 Toys for Tots Charity Trail Ride</a></li>
+			<li><a href="photos_2015-record-winter-cleanup.php">2015 Record Winter Cleanup</a></li>
+			<li><a href="photos_2015-awards-banquet.php">2014 Year End Awards Banquet</a></li>
 		</ul>
 	</div>
 </div>
