@@ -19,10 +19,10 @@ include ("../include/header.php");
 <div id="photos-grid">
 	<div class="row">
 		<div class="col-md-6 thumb">
-			<img class="img-responsive" src="../img/photos/toys-for-tots/toysfortots-img1.jpg">
+			<img class="img-responsive" src="../img/photos/2015-toys-for-tots/toysfortots-img1.jpg">
 		</div>
 		<div class="col-md-6 thumb">
-			<img class="img-responsive" src="../img/photos/toys-for-tots/toysfortots-img2.jpg">
+			<img class="img-responsive" src="../img/photos/2015-toys-for-tots/toysfortots-img2.jpg">
 		</div>
 	</div>
 </div>
