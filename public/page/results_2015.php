@@ -1226,7 +1226,7 @@ include ("../include/header.php");
 			</tbody>
 		</table>
 
-		<table class="table-res">
+		<table class="table table-responsive table-striped table-hover widthFull isTable clearfix table-res">
 			<legend>BV</legend>
 			<thead>
 				<tr>
