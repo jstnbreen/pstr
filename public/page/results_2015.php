@@ -8,7 +8,7 @@ include ("../include/header.php");
 	<div class="col-sm-12">
 		<h1>PSTR Competition Series Results</h1>
 		<h4>2015 Overall Standings</h4>
-		<hr style="margin-bottom:36px;">
+		<hr style="margin-bottom:45px;">
 
 		<table class="table table-responsive table-striped table-hover widthFull isTable clearfix table-res">
 			<legend>AA</legend>
