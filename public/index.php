@@ -42,7 +42,7 @@ $('.slider').slick({
 	<div class="col-sm-12">
 		<h1>Latest News</h1>
 
-		<img class="m-auto block" src="img/flyer_awards-banquet.jpg">
+		<img class="m-auto block" src="img/flyer_awards-banquet.jpg" style="width:66%;">
 		<!-- <img class="m1-auto block" src="img/flyer_CabinFeverTurkeyRun.jpg"> -->
 	</div>
 </div>
@@ -189,7 +189,7 @@ $('.slider').slick({
 				</tr>
 			</tbody>
 		</table> -->
-		
+
 		<p class="txt-center italic">
 			Presented in cooperation with
 		</p>
