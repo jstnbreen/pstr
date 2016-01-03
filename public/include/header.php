@@ -88,7 +88,6 @@ else {echo "<script src='../js/jquery.main.js'></script>";}
 						<li><a href="http://www.pstr.club/page/bylaws.php">Bylaws</a></li>
 						<li><a href="http://www.pstr.club/page/event-schedule.php">Event Schedule</a></li>
 						<li><a href="http://www.pstr.club/page/photos.php">Photos</a></li>
-						<li><a href="http://www.pstr.club/page/newsletter.php">Newsletter</a></li>
 						<li><a href="http://www.pstr.club/page/short-course-info.php">Short Course Series Info</a></li>
 						<li><a href="http://www.pstr.club/page/sponsors.php">Sponsors</a></li>
 						<li><a href="http://www.pstr.club/page/transponders.php">Transponders</a></li>

@@ -38,15 +38,14 @@ $('.slider').slick({
 });
 </script>
 
-<!-- <div class="row">
+<div class="row">
 	<div class="col-sm-12">
 		<h1>Latest News</h1>
 
-		<img class="m-auto block" src="img/flyer_3-29-15.jpg">
-		<img class="m1-auto block" src="img/flyer_clarkies.jpg">
-		<img class="m1-auto block" src="img/flyer_CabinFeverTurkeyRun.jpg">
+		<img class="m-auto block" src="img/flyer_awards-banquet.jpg">
+		<!-- <img class="m1-auto block" src="img/flyer_CabinFeverTurkeyRun.jpg"> -->
 	</div>
-</div> -->
+</div>
 
 <!--<div class="row">
 	<div class="col-sm-12">
@@ -113,7 +112,8 @@ $('.slider').slick({
 <div class="row">
 	<div class="col-sm-12">
 		<img class="widthQtr3 m1-auto block" src="img/pstr_short-course-champs.jpg">
-		<table class="table table-responsive table-striped table-hover widthFull display-table clearfix">
+
+		<!-- <table class="table table-responsive table-striped table-hover widthFull display-table clearfix">
 			<legend>Short Course Championship</legend>
 			<thead>
 				<tr>
@@ -188,7 +188,8 @@ $('.slider').slick({
 					<td>Freetown, MA</td>
 				</tr>
 			</tbody>
-		</table>
+		</table> -->
+		
 		<p class="txt-center italic">
 			Presented in cooperation with
 		</p>
@@ -196,18 +197,18 @@ $('.slider').slick({
 		<hr>
 		<h2>Attention Racers</h2>
 		<p>
+			We encourage you to join the AMA.
+		</p>
+		<p>
+			<a class="btn btn-primary btn-lg" href="http://www.amajoin.com/PISATR" target="_blank">Sign up here</a>
+		</p>
+		<!-- <p>
 			If you need to <a class="" href="http://www.amajoin.com/PISATR" target="_blank">Renew your AMA</a> be sure to do it ahead of time and avoid the extra paperwork in the sign up line.
 		</p>
 		<p>
-			<a class="btn btn-primary btn-lg" href="http://www.amajoin.com/PISATR" target="_blank">Sign Up Here</a>
-		</p>
-		<p>
 			Our events are <a class="" href="http://www.amajoin.com/PISATR">AMA sanctioned</a>. For more information, or to join the AMA <a class="" href="http://www.amajoin.com/PISATR">please click here</a>.
-		</p>
-		<img class="widthHalf block m1-auto" src="img/ama_logo.jpg">
-		<p>
-			2014 events can be seen by clicking the <a href="http://www.pstr.club/page/event-schedule.php">Events Schedule</a> tab on the top of each page.
-		</p>
+		</p> -->
+		<img class="widthHalf block m1-auto" src="img/logo_ama.png">
 		<hr>
 		<p>
 			Please remember to bring your AMA and PSTR membership cards or proof of membership to all the PSTR events. If you are not a member the day of the event, memberships will be available at the event or on line.
