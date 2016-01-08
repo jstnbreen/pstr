@@ -84,13 +84,13 @@ else {echo "<script src='../js/jquery.main.js'></script>";}
 			<nav id="nav" class="stickyme">
 				<div class="nav-inner">
 					<ul>
-						<li><a href="http://www.pstr.club/page/results.php">Results</a></li>
-						<li><a href="http://www.pstr.club/page/bylaws.php">Bylaws</a></li>
-						<li><a href="http://www.pstr.club/page/event-schedule.php">Event Schedule</a></li>
-						<li><a href="http://www.pstr.club/page/photos.php">Photos</a></li>
-						<li><a href="http://www.pstr.club/page/short-course-info.php">Short Course Series Info</a></li>
-						<li><a href="http://www.pstr.club/page/sponsors.php">Sponsors</a></li>
-						<li><a href="http://www.pstr.club/page/transponders.php">Transponders</a></li>
+						<li><a href="/page/results.php">Results</a></li>
+						<li><a href="/file/pstr-bylaws.pdf" target="_blank">Bylaws</a></li>
+						<li><a href="/page/event-schedule.php">Event Schedule</a></li>
+						<li><a href="/page/photos.php">Photos</a></li>
+						<li><a href="/page/short-course-info.php">Short Course Series Info</a></li>
+						<li><a href="/page/sponsors.php">Sponsors</a></li>
+						<li><a href="/page/transponders.php">Transponders</a></li>
 					</ul>
 				</div>
 			</nav>
