@@ -161,34 +161,83 @@ $('.slider').slick({
 					<td>Freetown, MA</td>
 				</tr>
 			</tbody>
-		</table>
+		</table> -->
+
 		<table class="table table-responsive table-striped table-hover widthFull display-table clearfix">
-			<legend>2015 NETRA EVENTS</legend>
+			<legend>2016 Shourt Course Series Schedule</legend>
 			<thead>
 				<tr>
-					<th>Event</th>
 					<th>Date</th>
+					<th>Event</th>
 					<th>Location</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<th>Cabin Fever Turkey Run</th>
-					<td>May 17<sup>th</sup></td>
-					<td>Freetown, MA</td>
+					<th>March 13 - Wareham, MA</th>
+					<td>Ice Cream Social Short Course</td>
+					<td>Wareham MX</td>
 				</tr>
 				<tr>
-					<th>Leonard’s Loop Hare Scramble</th>
-					<td>September 27<sup>th</sup></td>
+					<th>March 27 - Swansea, MA</th>
+					<td>Ice Cream Social Short Course</td>
+					<td>Simcock Farm</td>
+				</tr>
+				<tr>
+					<th>May 22</th>
+					<td>Junkyard Jam Short Course</td>
 					<td>Mattapoisett, MA</td>
 				</tr>
 				<tr>
-					<th>Toys for Tots Charity Trail Ride</th>
-					<td>November 15<sup>th</sup></td>
-					<td>Freetown, MA</td>
+					<th>July 10 - Assonet, MA</th>
+					<td>Swill Hole Short Course</td>
+					<td>Clarkie's Farm</td>
+				</tr>
+				<tr>
+					<th>August 7</th>
+					<td>Landfill Lapper Short Course</td>
+					<td>Mattapoisett, MA</td>
+				</tr>
+				<tr>
+					<th>Nov 6 - Swansea, MA</th>
+					<td>Hay Ride Short Course</td>
+					<td>Simcock Farm</td>
 				</tr>
 			</tbody>
-		</table> -->
+		</table>
+
+		<table class="table table-responsive table-striped table-hover widthFull display-table clearfix">
+			<legend>2016 PSTR NETRA Events</legend>
+			<thead>
+				<tr>
+					<th>Date</th>
+					<th>Event</th>
+					<th>Location</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>May 28 - Assonet, MA</th>
+					<td>Clarkie’s PeeWee</td>
+					<td>Clarkie's Farm</td>
+				</tr>
+				<tr>
+					<th>May 28 - Assonet, MA</th>
+					<td>Clarkie’s Vintage</td>
+					<td>Clarkie's Farm</td>
+				</tr>
+				<tr>
+					<th>May 29 - Assonet, MA</th>
+					<td>Clarkie’s Enduro</td>
+					<td>Clarkie's Farm</td>
+				</tr>
+				<tr>
+					<th>Nov 13 - Assonet, MA</th>
+					<td>PSTR Toy Run</td>
+					<td>Clarkie's Farm</td>
+				</tr>
+			</tbody>
+		</table>
 
 		<p class="txt-center italic">
 			Presented in cooperation with
