@@ -49,7 +49,7 @@ $('.slider').slick({
 		<p>
 			The Pilgrim Sands Trail Riders will again have a full schedule of events, including our Short Course Series, but there are some important changes this year. In an attempt to reduce the overall cost for our racers, we’ve made the following updates for our Short Course series:
 		</p>
-		<ul>
+		<ul style="list-style:disc;">
 			<li>
 				Pilgrim Sands membership is still required, but the cost of that membership has gone up from $25 to $40 per year. There will no longer be one-day memberships available.
 			</li>
