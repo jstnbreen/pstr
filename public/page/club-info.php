@@ -46,10 +46,12 @@ include ("../include/header.php");
 		<h2>First Timer to the Short Courses?</h2>
 		<h4>You will need:</h4>
 		<ul>
-			<li>PSTR membership - $25.00 yearly single or family, $5.00 for a day pass.</li>
-			<li>AMA membership – $49.00 yearly, $25.00 for a day pass.</li>
-			<li>Scoring packet - $20.00 one time fee ($20.00 for replacement).</li>
-			<li>Cost of race – $35.00 for AA, A, B, C heats and $25.00 minis, big wheel and woman.</li>
+			<li>
+				PSTR membership - $40.00 yearly single or family.
+			</li>
+			<li>
+				Cost of race – $45.00 for AA, A, B, C heats and $35.00 minis, big wheel and woman.
+			</li>
 		</ul>
 		<p class="bold italic">
 			Any question or comments please forward to <a href="mailto:pstrinfo@gmail.com">pstrinfo@gmail.com</a>

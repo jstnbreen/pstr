@@ -44,6 +44,31 @@ $('.slider').slick({
 
 		<img class="m-auto block" src="img/flyer_awards-banquet.jpg" style="width:66%;">
 		<!-- <img class="m1-auto block" src="img/flyer_CabinFeverTurkeyRun.jpg"> -->
+
+		<h3>What's new for Pilgrim Sands in 2016?</h3>
+		<p>
+			The Pilgrim Sands Trail Riders will again have a full schedule of events, including our Short Course Series, but there are some important changes this year. In an attempt to reduce the overall cost for our racers, we’ve made the following updates for our Short Course series:
+		</p>
+		<ul>
+			<li>
+				Pilgrim Sands membership is still required, but the cost of that membership has gone up from $25 to $40 per year. There will no longer be one-day memberships available.
+			</li>
+			<li>
+				Your PSTR racing number and transponder is covered under the membership fee, there is no separate charge. We will no longer be issuing physical numbers to the riders, you are responsible for putting numbers on your front number plate.
+			</li>
+			<li>
+				AMA membership is no longer required, representing a significant cost savings to the racer. We still are an AMA-affiliated club and encourage everyone to join, but it’s not required to race.
+			</li>
+			<li>
+				Entry fees are increased to $45 for the A/B and C classes, $35 for Kids/Women/Vintage classes.
+			</li>
+			<li>
+				Overall cost for a typical first-time racer goes from $140 to $95.
+			</li>
+			<li>
+				If you already have a PSTR racing number, you can keep that number by re-joining the club by the end of February. After that, your number goes back in the available pool to be given out to new racers.
+			</li>
+		</ul>
 	</div>
 </div>
 
