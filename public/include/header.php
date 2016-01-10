@@ -66,7 +66,7 @@ else {echo "<script src='../js/jquery.main.js'></script>";}
 					}
 				?>
 			</a>
-			<div class="quicklinks">
+			<!-- <div class="quicklinks">
 				<ul>
 					<li>
 						<li><a href="http://www.pstr.club">Home</a></li>
@@ -80,17 +80,18 @@ else {echo "<script src='../js/jquery.main.js'></script>";}
 						?>
 					</li>
 				</ul>
-			</div>
+			</div> -->
 			<nav id="nav" class="stickyme">
 				<div class="nav-inner">
 					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/page/club-info.php">Club Info</a></li>
 						<li><a href="/page/results.php">Results</a></li>
 						<li><a href="/file/pstr-bylaws.pdf" target="_blank">Bylaws</a></li>
 						<li><a href="/page/event-schedule.php">Event Schedule</a></li>
 						<li><a href="/page/photos.php">Photos</a></li>
 						<li><a href="/page/short-course-info.php">Short Course Series Info</a></li>
 						<li><a href="/page/sponsors.php">Sponsors</a></li>
-						<li><a href="/page/transponders.php">Transponders</a></li>
 					</ul>
 				</div>
 			</nav>
