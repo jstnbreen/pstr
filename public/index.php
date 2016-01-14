@@ -189,7 +189,7 @@ $('.slider').slick({
 		</table> -->
 
 		<table class="table table-responsive table-striped table-hover widthFull display-table clearfix">
-			<legend>2016 Shourt Course Series Schedule</legend>
+			<legend>2016 Short Course Series Schedule</legend>
 			<thead>
 				<tr>
 					<th>Date</th>
@@ -200,12 +200,12 @@ $('.slider').slick({
 			<tbody>
 				<tr>
 					<th>March 13 - Wareham, MA</th>
-					<td>Ice Cream Social Short Course</td>
+					<td>Sand Dune Short Course</td>
 					<td>Wareham MX</td>
 				</tr>
 				<tr>
 					<th>March 27 - Swansea, MA</th>
-					<td>Ice Cream Social Short Course</td>
+					<td>Wendy's Ride</td>
 					<td>Simcock Farm</td>
 				</tr>
 				<tr>
@@ -284,9 +284,6 @@ $('.slider').slick({
 		</p> -->
 		<img class="widthHalf block m1-auto" src="img/logo_ama.png">
 		<hr>
-		<p>
-			Please remember to bring your AMA and PSTR membership cards or proof of membership to all the PSTR events. If you are not a member the day of the event, memberships will be available at the event or on line.
-		</p>
 		<p class="bold">
 			Any question or comments please forward to <a class="" href="">pstrinfo@gmail.com</a>
 		</p>

@@ -40,12 +40,12 @@ include ("../include/header.php");
 
 		<h3>Schedule (approximate)</h3>
 		<ul class="clearfix">
-			<li><strong>Heat 1</strong> - Big Wheel, Mini, Women, Vintage – 8:30 a.m.</li>
-			<li><strong>Heat 2</strong> - All C classes – 9:20 a.m.</li>
-			<li><strong>Heat 3</strong> - All A and B classes – 10:10 a.m.</li>
-			<li><strong>Heat 4</strong> - Big Wheel, Mini, Women, Vintage – 11:00 a.m.</li>
-			<li><strong>Heat 5</strong> - All C classes – 11:50 a.m.</li>
-			<li><strong>Heat 6</strong> - All A and B classes – 12:40 p.m.</li>
+			<li><strong>Heat 1</strong> - Big Wheel, Mini, Women, Vintage – 9:00 a.m.</li>
+			<li><strong>Heat 2</strong> - All C classes – 9:50 a.m.</li>
+			<li><strong>Heat 3</strong> - All A and B classes – 10:40 a.m.</li>
+			<li><strong>Heat 4</strong> - Big Wheel, Mini, Women, Vintage – 11:30 a.m.</li>
+			<li><strong>Heat 5</strong> - All C classes – 12:20 a.m.</li>
+			<li><strong>Heat 6</strong> - All A and B classes – 1:10 p.m.</li>
 		</ul>
 
 		<h3>Heat/Wave Order</h3>
@@ -255,7 +255,7 @@ include ("../include/header.php");
 		<h4>Article II. VEHICLE REQUIREMENTS</h4>
 		<ul class="list-off clearfix">
 			<li>
-				<strong>A. Numbers:</strong> The racing number provided by PSTR must be displayed on the front number plate of the motorcycle. If the PSTR-provided numbers are lost or destroyed, numbers of equal size and background color must displayed.
+				<strong>A. Numbers:</strong> The racing number provided by PSTR must be displayed on the front number plate of the motorcycle.
 			</li>
 			<li>
 				<strong>B. Sound:</strong> There will be no formal sound test, but any motorcycle deemed obnoxiously loud by the Event Referee will be disqualified.
