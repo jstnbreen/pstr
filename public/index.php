@@ -204,7 +204,7 @@ $('.slider').slick({
 					<td>Wareham MX</td>
 				</tr>
 				<tr>
-					<th>March 27 - Swansea, MA</th>
+					<th>April 3 - Swansea, MA</th>
 					<td>Wendy's Ride</td>
 					<td>Simcock Farm</td>
 				</tr>
